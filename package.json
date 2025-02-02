@@ -1,0 +1,26 @@
+{
+  "name": "structures",
+  "version": "1.0.0",
+  "description": "sample template from YT",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "backend",
+    "template",
+    "sample",
+    "youtube"
+  ],
+  "author": "eric corpuz",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9",
+    "prettier": "^3.4.2"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.9.6"
+  }
+}
